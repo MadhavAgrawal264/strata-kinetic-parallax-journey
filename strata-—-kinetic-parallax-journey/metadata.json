@@ -1,0 +1,6 @@
+{
+  "name": "STRATA — Kinetic Parallax Journey",
+  "description": "An immersive vertical parallax scrolling experience through oceanic depths, geological strata, atmospheric layers, and the orbital exosphere with interactive kinetic physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
