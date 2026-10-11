@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/
+strata-kinetic-parallax-journey/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
